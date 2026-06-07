@@ -1,4 +1,8 @@
 # Exoplanet Transit Detection using Kepler Data
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)]()
+[![Data](https://img.shields.io/badge/Data-NASA%20Kepler-green.svg)]()
+
+> [View Notebook on Colab](https://colab.research.google.com/github/bijay550thapa/Exoplanet-Transit-Detection/blob/main/exoplanet_detection.ipynb)
 
 Independent research project — archival Kepler photometry, BLS period search, and transit characterization
 
